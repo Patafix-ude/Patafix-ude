@@ -1,6 +1,6 @@
 ### Hi there 👋
-#Studying Software Engineering in the Bachelor program at University-Duisburg-Essen 
-#Looking into systems-level languages (C/C++), System Security and Human-Computer-Interaction
+# Studying Software Engineering in the Bachelor program at University-Duisburg-Essen 
+# Looking into systems-level languages (C/C++), System Security and Human-Computer-Interaction
 <!--
 **Patafix-ude/Patafix-ude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
